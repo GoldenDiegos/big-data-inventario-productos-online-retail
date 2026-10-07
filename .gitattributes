@@ -1,0 +1,2 @@
+# Los CSV se guardan sin convertir saltos de línea para que la huella SHA-256 del archivo original no cambie
+*.csv -text

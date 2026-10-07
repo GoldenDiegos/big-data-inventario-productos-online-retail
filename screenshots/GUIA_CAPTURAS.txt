@@ -1,0 +1,35 @@
+Guía de capturas para el PDF de ejecución
+
+1. Abrir el notebook en Google Colab (ver README.md) o en Jupyter.
+2. Ejecutar todas las celdas en orden: en Colab, Entorno de ejecución, Ejecutar todas.
+3. Tomar una captura de cada celda marcada, con el código completo y su resultado debajo.
+4. Guardar cada imagen en esta carpeta con el nombre indicado (PNG).
+
+cap01.png    Captura 1: Librerías, rutas y obtención de los datos
+cap02.png    Captura 2: Verificación del archivo original y carga de datos
+cap03.png    Captura 3: Estructura de los datos originales
+cap04.png    Captura 4: Diagnóstico de calidad de los datos originales
+cap05.png    Captura 5: Normalización de texto y función de bitácora
+cap06.png    Captura 6: Duplicados, ajustes contables y detección de compras revertidas
+cap07.png    Captura 7: Resto de reglas de limpieza y bitácora
+cap08.png    Captura 8: Columna Total y verificación del conjunto limpio
+cap09.png    Captura 9: Muestra del conjunto limpio y archivos guardados
+cap10.png    Captura 10: Medidas de tendencia central y de dispersión
+cap11.png    Captura 11: Frecuencia de la moda y valores atípicos (regla de 1.5 × IQR)
+cap12.png    Captura 12: Matriz de covarianza y correlaciones de Pearson y Spearman
+cap13.png    Captura 13: Estadísticos y correlación a nivel producto
+cap14.png    Captura 14: Configuración de estilo para las gráficas
+cap15.png    Captura 15: Figura 1. Histograma de frecuencias de Quantity
+cap16.png    Captura 16: Figura 2. Histograma y curva de densidad de Price
+cap17.png    Captura 17: Figura 3. Curva de densidad de Total en escala logarítmica
+cap18.png    Captura 18: Figura 4. Diagramas de caja y bigotes
+cap19.png    Captura 19: Figura 5. Dispersión entre unidades vendidas e ingreso por producto
+cap20.png    Captura 20: Figura 6. Ingreso mensual
+cap21.png    Captura 21: Figura 7. Diez productos con mayor ingreso
+cap22.png    Captura 22: Figura 8. Ingreso por país (sin Reino Unido)
+cap23.png    Captura 23: Figura 9. Mapa de calor de la correlación de Spearman por producto
+cap24.png    Captura 24: Figura 10. Concentración del ingreso por producto (curva de Pareto)
+cap25.png    Captura 25: Validación final de resultados
+
+Si una celda no cabe en una sola pantalla, tomar varias imágenes y nombrarlas
+cap15a.png, cap15b.png, etc. Total de capturas: 25.

@@ -1,0 +1,11 @@
+Problema,Registros
+Filas duplicadas exactas,5268
+Facturas canceladas (prefijo C),9288
+Ajustes contables (prefijo A),3
+Cantidad menor o igual a 0,10624
+Precio menor o igual a 0,2517
+Códigos de servicio o vales de regalo,3037
+Descripción vacía,1454
+Descripción con espacios sobrantes,128367
+Código de producto en minúsculas,1977
+Customer ID vacío,135080

@@ -1,0 +1,9 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Datos procesados: el notebook los vuelve a generar a partir del archivo original
+data/processed/*.csv

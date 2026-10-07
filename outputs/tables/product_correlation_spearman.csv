@@ -1,0 +1,5 @@
+,Unidades,Facturas,PrecioMediano,Ingreso
+Unidades,1.0,0.9168,-0.3636,0.8667
+Facturas,0.9168,1.0,-0.1272,0.9246
+PrecioMediano,-0.3636,-0.1272,1.0,0.0896
+Ingreso,0.8667,0.9246,0.0896,1.0

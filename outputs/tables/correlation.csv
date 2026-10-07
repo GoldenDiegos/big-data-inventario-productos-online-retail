@@ -1,0 +1,7 @@
+,,Quantity,Price,Total
+Pearson,Quantity,1.0,-0.0938,0.6511
+Pearson,Price,-0.0938,1.0,0.092
+Pearson,Total,0.6511,0.092,1.0
+Spearman,Quantity,1.0,-0.4057,0.6836
+Spearman,Price,-0.4057,1.0,0.3292
+Spearman,Total,0.6836,0.3292,1.0

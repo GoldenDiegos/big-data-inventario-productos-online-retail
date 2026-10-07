@@ -1,0 +1,11 @@
+Paso,Regla,Filas antes,Filas después,Filas eliminadas
+1,Normalización de texto y fechas,541910,541910,0
+2,Duplicados exactos,541910,536640,5270
+3,Ajustes contables (prefijo A),536640,536637,3
+4,Compras revertidas por una cancelación,536637,533868,2769
+5,Facturas canceladas (prefijo C),533868,524617,9251
+6,Códigos de servicio y vales de regalo,524617,522218,2399
+7,Cantidad menor o igual a 0,522218,520882,1336
+8,Precio menor o igual a 0,520882,519728,1154
+9,Facturas anuladas por nota de crédito manual,519728,519231,497
+10,Descripción vacía,519231,519231,0
