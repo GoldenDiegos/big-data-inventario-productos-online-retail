@@ -31,7 +31,7 @@ Aunque el nombre dice supermercado, el contenido es la hoja "Year 2010-2011" del
 |---|---|
 | Código | `notebooks/analisis_online_retail.ipynb` |
 | Documento de resultados | `deliverables/Equipo2_Inventario_Resultados.docx` |
-| PDF con capturas de la ejecución | Pendiente. Las 25 capturas siguen el orden de `screenshots/GUIA_CAPTURAS.txt` |
+| PDF con capturas de la ejecución | `deliverables/Equipo2_Capturas_Ejecucion.pdf` (25 capturas en orden, con su etiqueta; las imágenes sueltas están en `screenshots/`) |
 
 ## Contenido del notebook
 
@@ -103,7 +103,7 @@ Abrir `analisis_online_retail.ipynb` y ejecutar todas las celdas en orden (Kerne
 | `notebooks/` | Notebook con todo el análisis. |
 | `outputs/tables/` | Tablas de resultados en CSV. |
 | `outputs/figures/` | Gráficas en PNG a 300 dpi. |
-| `deliverables/` | Documento de resultados en Word. |
+| `deliverables/` | Documento de resultados en Word y PDF con las capturas de la ejecución. |
 | `screenshots/` | Guía y capturas de la ejecución del notebook. |
 
 ## Verificación del archivo original
