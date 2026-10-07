@@ -99,7 +99,7 @@ Abrir `analisis_online_retail.ipynb` y ejecutar todas las celdas en orden (Kerne
 | Carpeta | Contenido |
 |---|---|
 | `data/raw/` | Archivo original de Kaggle (`supermarket_data.csv`, renombrado). No se modifica. |
-| `data/processed/` | Datos después de la limpieza. Los genera el notebook y no se suben al repositorio. |
+| `data/processed/` | Datos después de la limpieza (`online_retail_clean.csv`, 519,231 filas y la columna Total). El notebook los vuelve a generar igual en cada ejecución. |
 | `notebooks/` | Notebook con todo el análisis. |
 | `outputs/tables/` | Tablas de resultados en CSV. |
 | `outputs/figures/` | Gráficas en PNG a 300 dpi. |

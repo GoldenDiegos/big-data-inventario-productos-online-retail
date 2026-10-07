@@ -5,5 +5,3 @@
 .ipynb_checkpoints/
 __pycache__/
 
-# Datos procesados: el notebook los vuelve a generar a partir del archivo original
-data/processed/*.csv
